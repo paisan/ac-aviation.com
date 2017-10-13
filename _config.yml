@@ -15,8 +15,10 @@ title: AC Aviation
 email: pkhonjum@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is an AC Aviation Company Limited website. Disclaimer...
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /ac-aviation
+# the subpath of your site, e.g. /blog
+url: paisan.github.io
+# the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: paisan
 github_username:  paisan
 
